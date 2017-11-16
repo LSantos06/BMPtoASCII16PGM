@@ -1,2 +1,2 @@
-# BMPtoPGM
-Converts a BPM image file to PGM image file
+# BMPtoASCII16PGM
+Converts a BPM image file to ASCII 16-bit PGM image file
